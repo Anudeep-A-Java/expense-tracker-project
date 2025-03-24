@@ -1,66 +1,42 @@
-# Expense-Tracker
+##Project- Expense Tracker
 
-## Overview
-This full-stack webapp enables the user to track and manage expenses effectively. It features a React frontend for user interactions and a Spring Boot backend for data management, leveraging a MySQL database for persistence.
+A full-stack expense tracking application built with **React**, **Spring Boot**, and **MySQL**. This project allows users to register, log in, track daily expenses, and view insightful summaries — all in a clean and responsive UI.
 
-## Technologies
+# 💫 About Me
 
-**Backend:**
-- Java version 17
-- Spring Boot 3.2.X
-- Databse: MySQL with Spring Data JPA
+I’m a passionate and results-driven **Full Stack Java Developer** with 4+ years of experience in designing, developing, and deploying scalable web applications and microservices.  
 
-**Frontend:**
-- ReactJS
-- Axios 
+My expertise lies in:
+- **Java**, **Spring Boot**, **React**, **Angular**
+- RESTful APIs & Microservices
+- Cloud platforms like **AWS** and **Azure**
+- Clean architecture, secure systems, and responsive UI design
 
-## Features
+🎓 I hold a Master’s in Computer Science from the **University of Central Missouri**, with a strong foundation in algorithms, cloud computing, and software engineering.
 
-- Individual expense tracking
-- User creation and management
-- Expense creation and list display for individual users.
-- Expense categorization
+I thrive in Agile teams, love solving complex problems, and always enjoy learning new tools & technologies.
 
-**Project Structure**
-- backend-springboot: Contains SpringBoot backend code
-- frontend-react: Contains React frontend code
+---
 
-## Setup and Running
+## 🌐 Connect With Me
 
-**Prerequisites:**
-- Java 17
-- MySQL database
-- npm
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anudeepallamsetty)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anudeepallamsetty6@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anudeepallamsetty)
 
-**Steps:**
+---
 
-1. Clone the repository:
-   ```bash
-   git clone <invalid URL removed>
+## 💻 Tech Stack (used in the project)
 
-2. Set up the backend:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)  
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-- Create a MySQL database named expense-tracker.
-- Update database credentials in src/main/resources/application.properties.
-    - Replace your_database_username with your MySQL username.
-    - Replace your_database_password with your MySQL password.
-      
-- Build and run the backend:
-  (Run the BackendSpringbootApplication.java file)
-  ```bash
-  cd backend-springboot
-  ./mvnw spring-boot:run
-  
-3. Set up the frontend:
+---
 
-- Install dependencies:
-  ```bash
-  cd frontend-react
-  npm install
-
-- Start the development server:
-  ```bash
-  npm start
-
-4. Access the application:
-- Open http://localhost:3000 (or the specified frontend port) in your browser.
+📌 *Feel free to check out my pinned repositories or reach out to collaborate on exciting Java-based full stack projects!*
